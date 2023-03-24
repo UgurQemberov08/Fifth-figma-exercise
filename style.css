@@ -501,11 +501,6 @@ body {
   font-size: 15px;
   color: rgba(0, 0, 0, 0.7);
 }
-.container .sct6 .email-inp input:-ms-input-placeholder {
-  font-weight: 600;
-  font-size: 15px;
-  color: rgba(0, 0, 0, 0.7);
-}
 .container .sct6 .email-inp input::placeholder {
   font-weight: 600;
   font-size: 15px;
